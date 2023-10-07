@@ -1,5 +1,5 @@
 {
-  "name": "dpuk/mail-hog",
+  "name": "danielpringle/mail-hog",
   "type": "wordpress-plugin",
   "description": "Mail Hog settings for WordPress Docker dev",
   "authors": [
