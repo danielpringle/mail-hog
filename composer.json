@@ -4,7 +4,7 @@
   "description": "Mail Hog settings for WordPress Docker dev",
   "authors": [
     {
-      "name": "Daniel Pringle",
+      "name": "Daniel Pringle"
     }
   ],
   "require": {}
