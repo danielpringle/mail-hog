@@ -1,12 +1,11 @@
 {
-    "name": "dpuk/mail_hog_settings",
-    "description": "Mail Hog settings for WordPress and docker",
-    "type": "plugin",
-    "license": "GPL-2.0-or-later",
-    "authors": [
-        {
-            "name": "Daniel Pringle",
-            "role": "Maintainer"
-        },
-    ],
+  "name": "dpuk/mail-hog",
+  "description": "Mail Hog settings for WordPress Docker dev",
+  "authors": [
+    {
+      "name": "Daniel Pringle",
+      "email": "dan@danielpringle.co.uk"
+    }
+  ],
+  "type": "plugin",
 }
